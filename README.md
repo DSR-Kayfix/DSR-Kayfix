@@ -1,10 +1,10 @@
 ### Hello there :wave:
-I'm DSR-Kayfix, a coder who specializes in Node.js and front-end development.
+I'm CL-Kayfix, a coder who specializes in Node.js and front-end development.
 
  
 # Why you should choose me?
  
-|          Skill         | DSR-Kayfix | Itzzz-Malik | Person 2 | Person 3 |
+|          Skill         | CL-Kayfix | Itzzz-Malik | Person 2 | Person 3 |
 |:----------------------:|:---------:|:--------:|:--------:|:--------:|
 |          HTML/CSS/SASS |     ✔️     |     ✔️    |  ❌    |     ❌    |
 |                NodeJS+ |     ✔️     |     ✔️    |     ❌    |     ❌   |
